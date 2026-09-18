@@ -1,0 +1,6 @@
+{
+  "Name": "day9",
+  "ProjectType": "Process",
+  "Description": "email automation\r\n",
+  "MainFile": "Main.xaml"
+}
